@@ -25,7 +25,7 @@
             "properties": {
                 "principalId": "[parameters('principalId')]",
                 "roleDefinitionId": "[concat('/providers/Microsoft.Authorization/roleDefinitions/', parameters('roleDefinitionId'))]",
-                "scope": "/providers/Microsoft.Management/managementGroups/contoso/contoso-sandboxes"
+                "scope": "/providers/Microsoft.Management/managementGroups/contoso-sandboxes"
 
             }
         }

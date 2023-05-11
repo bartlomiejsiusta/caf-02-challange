@@ -39,7 +39,8 @@
               "defaultValue": [
                 "GatewaySubnet",
                 "AzureFirewallSubnet",
-                "AzureFirewallManagementSubnet"
+                "AzureFirewallManagementSubnet",
+                "AzureBastionSubnet"
               ],
               "metadata": {
                 "description": "Array of subnet names that are excluded from this policy",

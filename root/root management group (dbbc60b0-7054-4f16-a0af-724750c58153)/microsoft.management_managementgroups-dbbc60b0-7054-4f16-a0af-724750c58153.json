@@ -12,7 +12,7 @@
     {
       "type": "Microsoft.Management/managementGroups",
       "name": "dbbc60b0-7054-4f16-a0af-724750c58153",
-      "apiVersion": "2021-04-01",
+      "apiVersion": "2023-04-01",
       "scope": "/",
       "properties": {
         "displayName": "Root Management Group",
